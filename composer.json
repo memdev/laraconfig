@@ -12,17 +12,17 @@
   ],
   "require": {
     "php": ">=8.0",
-    "illuminate/database": "^8.43",
-    "illuminate/support": "^8.43",
-    "illuminate/collections": "^8.43",
-    "illuminate/config": "^8.43",
-    "illuminate/cache": "^8.43",
-    "symfony/console": "^5.3"
+    "illuminate/database": "^10.0",
+    "illuminate/support": "^10.0",
+    "illuminate/collections": "^10.0",
+    "illuminate/config": "^10.0",
+    "illuminate/cache": "^10.0",
+    "symfony/console": "^6.3"
   },
   "require-dev": {
-    "mockery/mockery": "^1.4.3",
-    "orchestra/testbench": "^6.19",
-    "phpunit/phpunit": "^9.5.4"
+    "mockery/mockery": "^1.6",
+    "orchestra/testbench": "^8.12",
+    "phpunit/phpunit": "^10.4"
   },
   "autoload-dev": {
     "psr-4": {
